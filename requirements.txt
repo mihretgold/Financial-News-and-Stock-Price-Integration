@@ -6,3 +6,4 @@ textblob
 gensim
 scikit-learn
 nltk
+scipy
